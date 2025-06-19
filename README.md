@@ -1,2 +1,2 @@
 # ztuth-updates
-Downloadable for the ztuth app
+Downloadables for the ztuth app
